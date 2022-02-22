@@ -1,2 +1,3 @@
 # calia_HTML-CSS-Javascript-
-복습 및 실습 코드 연습 repository
+
+### 실습 파일 1 [출처 : 인터랙티브 웹 콘텐츠 제작 프로젝트(jpub) - 이명희]
